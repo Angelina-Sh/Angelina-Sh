@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=42B883&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Angelina!;Frontend+Developer;Vue+%E2%80%A2+NestJS+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=42B883&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Angelina!;Frontend+Developer;Vue+%E2%80%A2+React+%E2%80%A2+Typescript" alt="Typing SVG" />
 </h1>
 
-Fullstack developer based in Sochi, Russia. I build production-grade web applications, with a current focus on e-commerce platforms, AI tools and their integrations.
+Frontend developer based in Orenburg, Russia. I build production-grade web applications, with a current focus on e-commerce platforms, AI tools and their integrations.
 
 ---
 
@@ -20,24 +20,7 @@ Fullstack developer based in Sochi, Russia. I build production-grade web applica
 
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-
-**Backend & Data**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-EA2845?style=for-the-badge&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-**DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![React](https://img.shields.io/badge/React.js-35495E?style=for-the-badge&logo=react&logoColor=58C4DC)
 
 **Currently learning**
 
@@ -55,4 +38,4 @@ Fullstack developer based in Sochi, Russia. I build production-grade web applica
 
 ### Get in touch
 
-[![Telegram](https://img.shields.io/badge/Telegram-%40max_poll-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/max_poll)
+[![Telegram](https://img.shields.io/badge/Telegram-%40Angelina_Shr-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Angelina_Shr)
