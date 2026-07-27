@@ -20,11 +20,11 @@ Frontend developer based in Orenburg, Russia. I build production-grade web appli
 
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React.js-35495E?style=for-the-badge&logo=react&logoColor=58C4DC)
+![React](https://img.shields.io/badge/React-35495E?style=for-the-badge&logo=react&logoColor=58C4DC)
 
 **Currently learning**
 
-![AI Harnesses](https://img.shields.io/badge/AI_Harnesses-orchestration-42B883?style=for-the-badge)
+![WebGl](https://img.shields.io/badge/WebGl-990000?style=for-the-badge)
 
 ---
 
